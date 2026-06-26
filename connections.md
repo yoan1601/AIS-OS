@@ -6,11 +6,11 @@ Registry of every system your AIOS can reach. Filled by `/onboard` from Q4-Q7 an
 |---|---|---|---|---|---|
 | 1 | Revenue / Financials | Orange Money + BMOI (clients internationaux TBD) | not yet connected | — | — |
 | 2 | Customer interactions | WhatsApp, LinkedIn DMs, Messenger | not yet connected | — | — |
-| 3 | Calendar | Google Calendar (inferred from Gmail) | not yet connected | — | — |
+| 3 | Calendar | Google Calendar (inferred from Gmail) | mcp | claude.ai Google Calendar | 2026-06-26 |
 | 4 | Communication | Gmail (yoan.rab@gmail.com), WhatsApp, LinkedIn DMs, Messenger | not yet connected | — | — |
-| 5 | Project / task tracking | Notion (workspace "Business" à créer) | mcp | — | — |
+| 5 | Project / task tracking | Notion (workspace "Business" à créer) | mcp | claude.ai Notion | 2026-06-26 |
 | 6 | Meeting intelligence | Notion, Google Drive | not yet connected | — | — |
-| 7 | Knowledge / files | Google Drive, Notion, fichiers en local | not yet connected | — | — |
+| 7 | Knowledge / files | Google Drive, Notion, fichiers en local | mcp | claude.ai Google Drive + Notion | 2026-06-26 |
 
 **Notion note:** tous les workspaces business doivent être sous une page "Business" dans Notion. Le workspace pour L'Activation AIOS est à créer. Un espace suivi financier est également à créer.
 

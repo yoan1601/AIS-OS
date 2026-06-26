@@ -17,6 +17,7 @@ Read `references/3ms-framework.md` once. It's how Harena thinks about AI work. M
 ## Where things live
 
 - `context/` — about you, your business, your priorities (filled by `/onboard`)
+- `memory/` — **read this at the start of every session.** Start with `memory/MEMORY.md` for the index, then read the files that are relevant to what Harena is working on. Write new entries here when something important is learned across sessions.
 - `references/` — frameworks, voice samples, API guides as you connect tools
 - `connections.md` — registry of every system your AIOS can reach
 - `decisions/log.md` — append-only record of decisions and why
@@ -34,7 +35,7 @@ Match the register in `references/voice.md`. Casual but professional. Short sent
 
 ## Connections
 
-Revenue : Orange Money (Madagascar) + BMOI (international TBD). Communication : Gmail, WhatsApp, LinkedIn DMs, Messenger. Calendar : Google Calendar. Docs/notes : Notion, Google Drive, local. Task tracking : Notion (workspace "Business" à créer). Toutes les connexions sont en statut "not yet connected" — voir `connections.md` pour le détail. Wirer Jour 2.
+Revenue : Orange Money (Madagascar) + BMOI (international TBD). Communication : Gmail, WhatsApp, LinkedIn DMs, Messenger. Calendar : Google Calendar. Docs/notes : Notion, Google Drive, local. Task tracking : Notion (workspace "Business" à créer). Google Calendar, Google Drive, Notion sont connectés via MCP (Jour 2). Gmail, WhatsApp, LinkedIn : pas encore connectés. Voir `connections.md` pour le détail.
 
 ## How you work with me
 
