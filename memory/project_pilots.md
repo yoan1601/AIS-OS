@@ -4,9 +4,9 @@
 
 ## Tihary — Coach
 - **Relation:** Père de Harena
-- **Business:** MAVANA Consulting — coach formation cadres malgaches ("Le Cadre qui Ose 90J"). En pivot B2B.
-- **Status:** Déjà briefé sur l'AIOS. Le plus prêt à convertir.
-- **Angle:** Secteur coach + pivot B2B = fit naturel. Timing bon.
+- **Business:** MAVANA Consulting (coach cadres malgaches, "Le Cadre qui Ose 90J") — mais pivot en cours. Potentiellement chef de mission dans un programme FMFP.
+- **Status:** Pilot planifié. Contrat FMFP en cours de signature semaine prochaine (semaine du 2026-06-29). Scope du pilot = FMFP si contrat signé, MAVANA en fallback.
+- **Angle:** Il voit plus de valeur AIOS dans FMFP que dans MAVANA. Attendre confirmation du contrat avant de préparer la session.
 
 ## Miary — Artisan
 - **Relation:** Cousine de Harena
